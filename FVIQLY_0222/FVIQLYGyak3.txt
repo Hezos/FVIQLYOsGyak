@@ -1,0 +1,56 @@
+﻿A feladatrész:
+
+1. feladat Mappaszerkezet kialakítása:
+
+
+2. feladat Mappák másolása a kiírt helyre:
+
+
+
+
+
+
+3. feladat Mappák áthelyezése a kiírt helyekre:
+
+
+
+4. feladat kiírt mappák törlése és a megadott fájlok létrehozása:
+
+
+
+
+5. feladat Fájlbaírás:
+
+
+6. feladat tartalom kilistázása:
+
+
+
+
+
+
+7. feladat e betűs fájlnevek listája:
+
+
+8. feladat mindenki számára látható a fájl:
+
+
+
+
+
+9. lemezterület foglalása:
+
+
+10. feladat listing fájl ABC sorrend szerinti listázása:
+
+
+
+
+
+11. feladat description fájlban lévő szavak megszámoltatása:
+
+
+
+B feladatrész:
+	GTKStressTest program használata:
+
